@@ -1,0 +1,11 @@
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\bin\Debug\temperature converter.exe.config
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\bin\Debug\temperature converter.exe
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\bin\Debug\temperature converter.pdb
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.AssemblyReference.cache
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.SuggestedBindingRedirects.cache
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature_converter.Form1.resources
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature_converter.Properties.Resources.resources
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.GenerateResource.cache
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.CoreCompileInputs.cache
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.exe
+D:\COLLECTIONSSS\PS TEST\temperature converter\temperature converter\obj\Debug\temperature converter.pdb
